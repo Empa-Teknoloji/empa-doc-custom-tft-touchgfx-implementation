@@ -102,4 +102,4 @@ Burada Blank UI seçilir ve Import'a tıklanır. Açılan ekranda denemek için 
 <br />
 STM32CubeIDE uygulamasında refresh(F5)'e tıklandığında proje dosyaları içerisine Middlewares kısmında touchgfx dosyaları gelmiş olur.<br/><br/>
 
-**STM32CubeIDE** tarafında yapılacak işlemler için [buradan](STM32CubeIDE/) ve proje dosyalarına da [buradan](STM32CubeIDE/README.md) erişebilirsiniz.
+**STM32CubeIDE** tarafında yapılacak işlemler için [buradan](STM32CubeIDE/README.md) ve proje dosyalarına da [buradan](STM32CubeIDE/) erişebilirsiniz.
